@@ -33,3 +33,23 @@ section{
     height: 25px;
     width: 200px;
 }
+@media screen and (max-width: 600px){
+    img{
+        width: 130px ;
+    }
+    h1{
+        font-size: 25px ;
+    }
+   div p{
+    font-size: 18px;
+    padding-left: 5px;
+    padding-right: 5px;
+   }
+ .form{
+    width: 150px;
+ }
+#botao{
+    font-size: 15px;
+    width: 150px;
+}
+}
